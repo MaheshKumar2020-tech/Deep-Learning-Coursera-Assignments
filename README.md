@@ -1,1 +1,1 @@
-# Deep-Learning-Coursera-Assignments
+# Coursera Deep-Learning-Specialization
